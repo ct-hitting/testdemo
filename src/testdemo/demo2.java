@@ -5,6 +5,7 @@ public class demo2 {
 	public int age;
 
 	demo2(){
-		System.out.println("test push a new branch");
+		System.out.println("test a push on testing branch");
+		System.out.println("test the log show");
 	}
 }
