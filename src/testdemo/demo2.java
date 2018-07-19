@@ -6,5 +6,6 @@ public class demo2 {
 
 	demo2(){
 		System.out.println("test a rebase __ master");
+		System.out.println("test a rebase __ testing");
 	}
 }
