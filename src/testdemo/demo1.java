@@ -15,6 +15,7 @@ public class demo1 {
 
 	demo1(){
 		System.out.println("test the log show");
+		System.out.println("test a rebase - master");
 	}
 	
 }
