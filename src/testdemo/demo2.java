@@ -5,7 +5,6 @@ public class demo2 {
 	public int age;
 
 	demo2(){
-		System.out.println("test a rebase __ master");
-		System.out.println("test a rebase __ testing");
+		System.out.println("first status");
 	}
 }
