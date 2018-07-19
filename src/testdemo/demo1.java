@@ -12,5 +12,9 @@ public class demo1 {
 		this.name = name;
 		this.sex = sex;
 	}
+
+	demo1(){
+		System.out.println("test the log show");
+	}
 	
 }
