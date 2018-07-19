@@ -6,5 +6,6 @@ public class demo2 {
 
 	demo2(){
 		System.out.println("first status");
+		System.out.println("test a rebase - master");
 	}
 }
