@@ -19,6 +19,11 @@ public class demo1 {
 	}
 
 	static{
+		System.out.println("static");
+	}
 
+	public static void main(String[] args){
+		demo1 d1 = new demo1();
+		System.out.println("new a demo1");
 	}
 }
