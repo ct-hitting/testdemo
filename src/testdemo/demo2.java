@@ -3,6 +3,7 @@ package testdemo;
 public class demo2 {
 	public String name;
 	public int age;
+	public String sex;
 
 	demo2(){
 		System.out.println("first status");
