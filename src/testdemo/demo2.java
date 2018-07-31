@@ -11,13 +11,17 @@ public class demo2 {
 		System.out.println("test a rebase - testing");
 	}
 
-	public void Calculate(int x,int y){
-		count = x*y;
+
+	public void Calculate(int x,int y) {
+		count = x * y;
 	}
-
-
 
 	public static void main(String[] args){
-		demo2 d2 = new demo2();
+		int a[] = new int[5];
+		a[0] = (int) Math.pow(2,21);
+		System.out.println(a[0]);
 	}
+
+
+
 }
